@@ -5,7 +5,7 @@ const Hero = () => {
         <header className="w-full flex justify-center items-center flex-col" >
             <nav className='flex justify-between items-center w-full mb-10 pt-3'>
                 <h1 className="font-satoshi font-bold text-3xl">AI <span className="orange_gradient">Summify</span></h1>
-                <button type='button' onClick={() => window.open("https://linkedin.com/in/mukesh-kumar-choudhary-293336200")} className='black_btn'>
+                <button type='button' onClick={() => window.open("https://linkedin.com/in/dcdahake132001/")} className='black_btn'>
                     About Developer
                 </button>
             </nav>
